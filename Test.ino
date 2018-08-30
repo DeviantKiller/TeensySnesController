@@ -1,3 +1,4 @@
+# https://learn.adafruit.com/usb-snes-gamepad/programming-the-teensy
 #define REPEATRATE 100  // milliseconds
 
 const int pinBtnUp = 0;
